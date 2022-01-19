@@ -27,4 +27,8 @@ public class LoginPageObject {
 	public void clickLoginButton() {
 		driver.findElement(By.xpath("//button[@name='login']")).click();
 	}
+	
+public void New() {
+	
+}
 }
